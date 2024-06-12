@@ -1,0 +1,5 @@
+<script>
+        x = 7
+        console.log(`Sqr of ${x} is ${x*x}`) 
+        
+        </script>
